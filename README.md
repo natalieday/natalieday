@@ -1,6 +1,5 @@
 - Hi, I’m @natalieday
 - I’m a software developer
-- How to reach me: natalieannday@gmail.com
 - Fun fact: I'm an avid skiier!
 
 <!---
