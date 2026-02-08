@@ -1,8 +1,6 @@
 - Hi, I’m @natalieday
-- I’m interested in software development, especially developing AI and ML models.
-- I’m currently learning how to create and manipulate AI and ML models.
+- I’m a software developer
 - How to reach me: natalieannday@gmail.com
-- Pronouns: she/her
 - Fun fact: I'm an avid skiier!
 
 <!---
